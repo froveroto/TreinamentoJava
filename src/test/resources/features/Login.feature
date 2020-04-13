@@ -18,7 +18,7 @@ Funcionalidade: Login
       |usuarioinvalidos |senhainvalida|mensagemdeerro            |
       |usuario          |senha12345   |Invalid email address.    |
       |usuario@         |senha12345   |Invalid email address.    |
-      |usuario.com      |senha12345   |Authentication failed.    |
+      |usuario.com      |senha12345   |Invalid email address.    |
       |usuario@..       |senha12345   |Invalid email address.    |
       |usuario@.com     |senha12345   |Invalid email address.    |
       |usuario@gmail.com|senha12345   |Authentication failed.    |
